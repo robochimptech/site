@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Salesforce gurus who understand business
 image: /img/home-jumbotron.jpg
-heading: Great knowledge and experience, with a C-Level understanding
+heading: '"Great knowledge and experience, with the highest level of understanding..."'
 subheading: "\"The simplest solution is always the best solution - so long as
   requirements are met. We understand what it means to be lean and agile. When
   you need us to get down and dirty (we can handle that all day long) we
@@ -12,12 +12,13 @@ mainpitch:
   title: Why RoboChimp Technology?
   description: >
     We exist because there is a demand for reliable and knowledgable Salesforce
-    Consultants who understand business needs and requirements and deliver
-    results quickly and cost-effectively. Hi. Let's do business.
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+    Consultants who understand business needs and requirements while at the same
+    time being able to deliver results quickly and cost-effectively.
+description: RoboChimp is the quintessential boutique Salesforce shop... We love
+  working with growing companies who want to focus on expanding operations,
+  without growing their IT overhead. We take our role in managing Salesforce
+  infrastructure seriously and we’re happy to help your organization become more
+  efficient and effective right away.
 intro:
   blurbs:
     - image: /img/coffee.png
