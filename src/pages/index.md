@@ -3,18 +3,17 @@ templateKey: index-page
 title: Salesforce gurus who understand business
 image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience
-subheading: "\"The simplest solution is always the best solution -- so long as
+subheading: "\"The simplest solution is always the best solution - so long as
   requirements are met. We understand what it means to be lean and agile. When
   you need us to get down and dirty (we can handle that all day long) we
-  absolutely will, but if a requirement has a simple solution -- that is where
+  absolutely will, but if a requirement has a simple solution - that is where
   we're going to lean.\""
 mainpitch:
-  title: Why Kaldi
+  title: Why RoboChimp Technology?
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    We exist because there is a demand for reliable and knowledgable Salesforce
+    Consultants who understand business needs and requirements and deliver
+    results quickly and cost-effectively. Hi. Let's do business.
 description: Kaldi is the ultimate spot for coffee lovers who want to learn
   about their java’s origin and support the farmers that grew it. We take coffee
   production, roasting and brewing seriously and we’re glad to pass that
