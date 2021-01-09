@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Salesforce gurus who understand business
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
+heading: Great knowledge and experience, with a C-Level understanding
 subheading: "\"The simplest solution is always the best solution - so long as
   requirements are met. We understand what it means to be lean and agile. When
   you need us to get down and dirty (we can handle that all day long) we
