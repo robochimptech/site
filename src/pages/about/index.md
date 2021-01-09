@@ -1,19 +1,22 @@
 ---
-templateKey: 'about-page'
+templateKey: about-page
 path: /about
-title: About our values
+title: About RoboChimp
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+### Honest, hard working people
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+Salesforce consultants are normally expensive and a little lazy.
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+That's right. We said it.
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+With that out of the way, we actually know how to help you configure your Salesforce Org in a way that will maximize efficiency, performance and visibility for all levels of users. 
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+Not only that, but we will do it at a rate that is less than you would expect.
+
+### How do we accomplish this?
+
+Our company is built upon executives who have sat in the CEO, CTO, President, Founder, Co-Founder, and other valuable decision-making seats. We've learned from our combined experience in Tech, IT, InsureTech, FinTech, Insurance, Financial Services, and other verticals how to deliver on your needs in the most cost-effective and timely manner possible, while keeping Stakeholders in the loop along the way.
+
+### Why do we do this?
+
+Because we believe in hard work, creative (yet simple) solutions, and executing in a way that keeps you moving forward!
